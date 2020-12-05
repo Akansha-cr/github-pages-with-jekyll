@@ -1,4 +1,4 @@
 ---
 title: "global warming"
-date: YYYY-MM-DD
+date: 2020-12-05
 ---
